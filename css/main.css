@@ -163,12 +163,12 @@ section
 
 .nav-list
 {
-    padding: 0;
+    padding-left: 0;
     width: 575px;
     margin-top: 10px;
 }
 
-.nav-list > li a
+.nav-list li a
 {
     font-size: 16px;
     text-transform: uppercase;
@@ -189,7 +189,7 @@ section
     font-size: 18px;
 }
 
-.account > a
+.account a
 {
     font-size: 14px;
 }
@@ -200,7 +200,7 @@ section
     height: 60px;
 }
 
-.profile-pic > img
+.profile-pic img
 {
     border-radius: 100px;
     max-width: 100%;
