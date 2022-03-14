@@ -215,25 +215,25 @@ section
     text-transform: uppercase;
 }
 
-.hero div > h1
+.hero div h1
 {
     display: relative;
     left: -30px;
 }
 
-.hero div > h2 
+.hero div h2 
 {
     color: #faa541;
 }
 
-.hero div > h1 h2
+.hero div h1, h2
 {
     font-size: 63px;
     font-weight: 700;
     line-height: 0.9;
 }
 
-.hero div > p
+.hero div p
 {
     letter-spacing: 2px;
     font-weight: 700;
@@ -250,7 +250,7 @@ section
     padding: 25px 0;
 }
 
-.banner > img
+.banner img
 {
     width: 250px;
 }
@@ -264,7 +264,7 @@ section
     text-align: center;
 }
 
-.banner-text > div :last-child
+.banner-text > div:last-child
 {
     font-size: 16px;
     font-weight: 400;
@@ -297,7 +297,7 @@ section
     color: #faa541;
 }
 
-.category-text > h3
+.category-text h3
 {
     font-size: 30px;
     font-weight: 700;
